@@ -1,0 +1,6 @@
+framework module GoogleAppLovinAdapter {
+  umbrella header "GoogleAppLovinAdapter.h"
+  export *
+
+  module * { export * }
+}
